@@ -108,21 +108,3 @@ p{
     ;
     border-style: solid; 
 }
-
-.footer{
-	background-color: #505251; 
-    border-top-style: solid; 
-    border-top-width: 4px; 
-    border-top-color:   #3333cc
-    ;
-    color: white; 
-    min-height: 50px; 
-    font-family: Georgia, Times, "Times New Roman", serif;
-    font-size: 15px; 
-    text-align: center; 
-    position: fixed;
-    padding-top: 10px; 
-	width: 100%;
-	left: 0;
-	bottom: 0;
-}
